@@ -1,1 +1,1 @@
-![My Logo](Capture.png)
+![My Logo](Capture.PNG)
